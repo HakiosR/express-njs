@@ -1,0 +1,19 @@
+{
+  "name": "express_njs",
+  "version": "1.0.0",
+  "description": "My first app with NJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HakiosR/express-njs.git"
+  },
+  "author": "Hakios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HakiosR/express-njs/issues"
+  },
+  "homepage": "https://github.com/HakiosR/express-njs#readme"
+}
